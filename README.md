@@ -4,7 +4,7 @@ Hi 👋 My name is Cainã Martins Teixeira Ribeiro
 Front-end Web Developer
 -----------------------
 
-I'm currently learning HTML5, CSS3 and JavaScript. I'm a former chemical engineer who's found you passion in web development.
+I'm currently learning HTML5, CSS3 and JavaScript. I'm a former chemical engineer who's found your passion in web development.
 
 * 🌍  I'm based in Brasil
 * ✉️  You can contact me at [cainaribeiro.it@outlook.com](mailto:cainaribeiro.it@outlook.com)
