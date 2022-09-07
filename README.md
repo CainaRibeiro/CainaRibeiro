@@ -8,7 +8,7 @@ I'm currently learning HTML5, CSS3 and JavaScript. I'm a former chemical enginee
 
 * 🌍  I'm based in Brasil
 * ✉️  You can contact me at [cainaribeiro.it@outlook.com](mailto:cainaribeiro.it@outlook.com)
-* 🧠  I'm learning HTML5, CSS3, JavaScript and React.js
+* 🧠  I'm learning HTML5, CSS3, JavaScript and Java.
 * 🤝  I'm open to collaborating on Web development
 
 ### Skills
