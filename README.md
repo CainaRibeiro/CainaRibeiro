@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cainã Martins Teixeira Ribeiro</h1>
+<h1 align="center">Hi 👋, I'm Cainã Ribeiro</h1>
 
 - 🌱 I’m currently learning **JavaScript, Django, Django Rest Framework, Postgresql and Docker**
 
